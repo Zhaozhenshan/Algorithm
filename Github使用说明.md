@@ -10,10 +10,10 @@
 ##### 二、更新
 
 ```
- 首先把要更新的内容放到文件夹或者是删除某个文件
- git init
- git add .
- git commit -m "xinxi"
- git push
+1. 首先把要更新的内容放到文件夹或者是删除某个文件
+2. git init
+3. git add .
+4. git commit -m "xinxi"
+5. git push
 ```
 
